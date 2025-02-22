@@ -1,0 +1,49 @@
+Git es una herramienta esencial en el desarrollo de software que permite gestionar de manera eficiente los cambios en el código y los archivos de un proyecto. Su principal ventaja radica en la capacidad de rastrear modificaciones, revertir cambios a versiones anteriores y coordinar el trabajo entre múltiples desarrolladores, facilitando la colaboración en proyectos individuales o en equipo.
+
+El video proporciona una explicación detallada sobre el uso de Git, destacando la amplia gama de comandos disponibles en su interfaz de consola, como git add, git status y git commit, los cuales son fundamentales para gestionar versiones de código. Además, guía paso a paso en el proceso de instalación del ejecutable, asegurando que los usuarios puedan configurar la herramienta correctamente en su sistema.
+
+Git fue desarrollado por Linus Torvalds, el creador del sistema operativo Linux, debido a la necesidad de contar con una herramienta que permitiera registrar y administrar de manera eficiente las distintas versiones y avances de su proyecto. Desde su lanzamiento, Git se ha convertido en un estándar en la industria del desarrollo de software, siendo utilizado en una amplia variedad de entornos, desde pequeños proyectos personales hasta grandes plataformas de código abierto y desarrollo empresarial.
+
+Gracias a su sistema de control de versiones distribuido, Git permite que múltiples programadores trabajen en un mismo código sin el riesgo de sobrescribir o perder información, asegurando así una gestión más organizada y segura del desarrollo de software.
+
+¿Que es GIT?
+
+Git es un sistema de control de versiones que permite gestionar cambios en el código, revertir modificaciones y colaborar en proyectos de desarrollo de software de manera eficiente. Fue creado por Linus Torvalds para administrar versiones del kernel de Linux y es ampliamente utilizado en la industria.
+
+¿Cuales son los comandos mas importantes y para que sirven?
+
+git init - Crea un nuevo repositorio.
+git add <archivo> - Agrega cambios al área de preparación.
+git commit -m "mensaje" → Guarda los cambios con un mensaje.
+git push - Sube cambios al repositorio remoto.
+git pull - Descarga y fusiona cambios del repositorio remoto.
+
+¿Cual es la diferencia entre Git y Github?
+
+La diferencia principal entre Git y GitHub es:
+
+Git Es un sistema de control de versiones que permite gestionar cambios en el código de forma local.
+GitHub Es una plataforma en línea que permite almacenar repositorios Git en la nube, facilitando la colaboración entre desarrolladores.
+En resumen, Git es la herramienta, y GitHub es un servicio que la usa para alojar proyectos y facilitar el trabajo en equipo. 
+
+Enumere los comandos para subir cambios a un repositorio:
+
+git add <archivo>
+git commit -m "mensaje" 
+git push origin <rama> 
+
+
+¿Que es una branch?
+Una branch en Git es una copia separada del código donde un desarrollador puede trabajar sin afectar la versión principal. Se utiliza para desarrollar nuevas funciones, corregir errores o probar cambios sin modificar directamente la rama estable.
+
+¿Cual es la diferencia entre un repositorio local y un repositorio remoto?
+
+La diferencia entre un repositorio local y un repositorio remoto es básicamente dónde se encuentran y cómo se usan.
+
+Cuales son los comandos basicos para: 
+Iniciar un repositorio: git init
+Descaragar un repositorio: git clone
+Agregar archivos a un repositorio local: git add
+Confirmar cambios en un repositorio local: git commit -m ""
+Subir cambios a un repositorio remoto: git push 
+Revertir cambios en una branch: git checkout --
