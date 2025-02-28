@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF87C49-2662-4EE6-AD1B-408012BF305A}|tarea.4\\tarea.4.csproj|c:\\users\\compu fire\\documents\\progra12025\\tarea3\\tarea.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF87C49-2662-4EE6-AD1B-408012BF305A}|tarea.4\\tarea.4.csproj|solutionrelative:tarea.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7819FC31-54FF-443B-8705-D213EC1C7D9C}|tarea.3\\tarea.3.csproj|c:\\users\\compu fire\\documents\\progra12025\\tarea3\\tarea.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7819FC31-54FF-443B-8705-D213EC1C7D9C}|tarea.3\\tarea.3.csproj|solutionrelative:tarea.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCB8653-B3FD-4002-B63A-52C1060E2FB5}|tarea.1\\tarea.1.csproj|c:\\users\\compu fire\\documents\\progra12025\\tarea3\\tarea.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCB8653-B3FD-4002-B63A-52C1060E2FB5}|tarea.1\\tarea.1.csproj|solutionrelative:tarea.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F79785-6DA7-4C23-87ED-1D2E8CDA4D61}|tarea.2\\tarea.2.csproj|c:\\users\\compu fire\\documents\\progra12025\\tarea3\\tarea.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F79785-6DA7-4C23-87ED-1D2E8CDA4D61}|tarea.2\\tarea.2.csproj|solutionrelative:tarea.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC5A63B-D001-47A2-95E8-A5AD6153A034}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\compu fire\\documents\\progra12025\\tarea3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC5A63B-D001-47A2-95E8-A5AD6153A034}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.4\\Program.cs",
+              "RelativeDocumentMoniker": "tarea.4\\Program.cs",
+              "ToolTip": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.4\\Program.cs*",
+              "RelativeToolTip": "tarea.4\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:04:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.3\\Program.cs",
+              "RelativeDocumentMoniker": "tarea.3\\Program.cs",
+              "ToolTip": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.3\\Program.cs",
+              "RelativeToolTip": "tarea.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:49:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.2\\Program.cs",
+              "RelativeDocumentMoniker": "tarea.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.2\\Program.cs",
+              "RelativeToolTip": "tarea.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:45:59.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.1\\Program.cs",
+              "RelativeDocumentMoniker": "tarea.1\\Program.cs",
+              "ToolTip": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\tarea.1\\Program.cs",
+              "RelativeToolTip": "tarea.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:38:34.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Compu Fire\\Documents\\Progra12025\\tarea3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:27:34.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

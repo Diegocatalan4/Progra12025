@@ -1,0 +1,15 @@
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\bin\Debug\net8.0\tarea.1.exe
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\bin\Debug\net8.0\tarea.1.deps.json
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\bin\Debug\net8.0\tarea.1.runtimeconfig.json
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\bin\Debug\net8.0\tarea.1.dll
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\bin\Debug\net8.0\tarea.1.pdb
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.AssemblyInfoInputs.cache
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.AssemblyInfo.cs
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.csproj.CoreCompileInputs.cache
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.sourcelink.json
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.dll
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\refint\tarea.1.dll
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.pdb
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\tarea.1.genruntimeconfig.cache
+C:\Users\Compu Fire\Documents\Progra12025\tarea3\tarea.1\obj\Debug\net8.0\ref\tarea.1.dll
